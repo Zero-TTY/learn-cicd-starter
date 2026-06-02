@@ -1,3 +1,5 @@
+![Coverage](https://github.com/Zero-TTY/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+
 Zero-TTY version of Boot.dev's Notely app.
 
 # learn-cicd-starter (Notely)
